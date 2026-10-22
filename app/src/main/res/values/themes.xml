@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.AlarmaNFC" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/verde</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+    <style name="Theme.AlarmaNFC.Alarm" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/verde</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:windowBackground">#000000</item>
+    </style>
+</resources>
